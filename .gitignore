@@ -1,0 +1,12 @@
+obj
+Dockerfile
+bin/Debug
+bin/Release/net5.0-windows/publish
+bin/Release/net5.0-windows/ref
+bin/Release/net5.0-windows/HtmlAgilityPack.dll
+bin/Release/net5.0-windows/test.deps.json
+bin/Release/net5.0-windows/test.dll
+bin/Release/net5.0-windows/test.exe
+bin/Release/net5.0-windows/test.pdb
+bin/Release/net5.0-windows/test.runtimeconfig.dev.json
+bin/Release/net5.0-windows/test.runtimeconfig.json
